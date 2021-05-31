@@ -3,9 +3,9 @@
     "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
     "authors": [
         {
-            "name": "Qlick by Nermin Elkasovic",
-            "email": "nermin@qlick.ch",
-            "homepage": "https://qlick.ch",
+            "name": "Artmedia LLC",
+            "email": "welcome@artmedia.ge",
+            "homepage": "http://artmedia.ge",
             "role": "Developer"
         }
     ],
