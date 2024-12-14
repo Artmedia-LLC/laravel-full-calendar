@@ -11,7 +11,7 @@ Or add the following to your composer.json's require section and `composer updat
 
 ```json
 "require": {
-	"artmedia-llc/laravel-full-calendar": "~1.0"
+	"artmedia-llc/laravel-full-calendar": "~1.1.4"
 }
 ```
 
